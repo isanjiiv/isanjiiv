@@ -24,9 +24,5 @@ Windows Server | Active Directory | GPO | WSUS | Networking | AWS | Azure | Fort
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Isanjiiv&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Isanjiiv&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=Isanjiiv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
